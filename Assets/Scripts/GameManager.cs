@@ -6,15 +6,20 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public int totalScore;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject[] slimes;
+    public Transform SpawnPoint;
+    float spawnTime = 5f;
 
     // Update is called once per frame
     void Update()
     {
-        
+        //spawn slimes at an interval of one every five seconds
+        spawnTime -= Time.deltaTime;
+
+        if (spawnTime <= 0 )
+        {
+            Instantiate(slimes[Random.Range(0, slimes.Length)], SpawnPoint.position, Quaternion.identity);
+            spawnTime = 5;
+        }
     }
 }

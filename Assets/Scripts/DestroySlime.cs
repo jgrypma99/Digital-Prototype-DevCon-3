@@ -29,7 +29,10 @@ public class DestroySlime : MonoBehaviour
         if (collision.gameObject.CompareTag(gameObject.tag))
         {
             Destroy(gameObject);
-            Destroy(collision.gameObject);
+            if (collision.gameObject.CompareTag(gameObject.tag))
+            {
+                Destroy(collision.gameObject);
+            }
             if (collision.gameObject.CompareTag("Red Slime"))
             {
                 manager.totalScore = manager.totalScore + redValue;
