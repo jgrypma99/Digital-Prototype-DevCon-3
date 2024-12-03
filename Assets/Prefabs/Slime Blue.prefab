@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 6128745672568955170}
   m_Layer: 0
   m_Name: ZPos
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 6021918418451883960}
   m_Layer: 0
   m_Name: XPos
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -386,7 +386,7 @@ GameObject:
   - component: {fileID: 6266014717422322674}
   m_Layer: 0
   m_Name: YPos
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -468,7 +468,7 @@ GameObject:
   - component: {fileID: 8984234740759055732}
   m_Layer: 0
   m_Name: ZNeg
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -549,7 +549,7 @@ GameObject:
   - component: {fileID: 8259780895068876013}
   m_Layer: 0
   m_Name: SphereMesh
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -641,7 +641,7 @@ GameObject:
   - component: {fileID: 4080989443874051599}
   m_Layer: 0
   m_Name: YNeg
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -754,7 +754,7 @@ GameObject:
   - component: {fileID: 1884960947500440228}
   m_Layer: 0
   m_Name: XNeg
-  m_TagString: Untagged
+  m_TagString: Blue Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

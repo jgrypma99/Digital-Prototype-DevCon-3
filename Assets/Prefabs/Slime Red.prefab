@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 743775469138256753}
   m_Layer: 0
   m_Name: SphereMesh
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56,12 +56,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643788795013442935}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.01, y: 0.010000002, z: 0.010000002}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 8230875108325982858}
+  m_Father: {fileID: 2723906573124664397}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!137 &743775469138256753
 SkinnedMeshRenderer:
@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 588090282344865366}
   m_Layer: 0
   m_Name: ZNeg
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 4943929454286175907}
   m_Layer: 0
   m_Name: XNeg
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 5744334367713081519}
   m_Layer: 0
   m_Name: YNeg
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -481,7 +481,7 @@ GameObject:
   - component: {fileID: 4252263729801841667}
   m_Layer: 0
   m_Name: Armature
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -505,6 +505,7 @@ Transform:
   - {fileID: 8232082160553280342}
   - {fileID: 7234043438569578466}
   - {fileID: 2234014903960417347}
+  - {fileID: 3550624578485076487}
   m_Father: {fileID: 8230875108325982858}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &7627075333952236946
@@ -725,7 +726,7 @@ GameObject:
   - component: {fileID: 4398034709896696202}
   m_Layer: 0
   m_Name: ZPos
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -807,7 +808,7 @@ GameObject:
   - component: {fileID: 3426157664583831422}
   m_Layer: 0
   m_Name: XPos
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -889,7 +890,7 @@ GameObject:
   - component: {fileID: 1635011087023884568}
   m_Layer: 0
   m_Name: YPos
-  m_TagString: Untagged
+  m_TagString: Red Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1020,7 +1021,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2723906573124664397}
-  - {fileID: 3550624578485076487}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &115647446927875312
