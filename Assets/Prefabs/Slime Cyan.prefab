@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 743775469138256753}
   m_Layer: 0
   m_Name: SphereMesh
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -83,7 +83,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0c0060e0be3508f478b8831f542bf49b, type: 2}
+  - {fileID: 2100000, guid: 2b5eb39cb8ef00448a26e521c8c920c6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 588090282344865366}
   m_Layer: 0
   m_Name: ZNeg
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 4943929454286175907}
   m_Layer: 0
   m_Name: XNeg
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 5744334367713081519}
   m_Layer: 0
   m_Name: YNeg
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -482,7 +482,7 @@ GameObject:
   - component: {fileID: 1780099605016091747}
   m_Layer: 0
   m_Name: Armature
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -741,7 +741,7 @@ GameObject:
   - component: {fileID: 4398034709896696202}
   m_Layer: 0
   m_Name: ZPos
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -823,7 +823,7 @@ GameObject:
   - component: {fileID: 3426157664583831422}
   m_Layer: 0
   m_Name: XPos
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -905,7 +905,7 @@ GameObject:
   - component: {fileID: 1635011087023884568}
   m_Layer: 0
   m_Name: YPos
-  m_TagString: Red Slime
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1016,8 +1016,8 @@ GameObject:
   - component: {fileID: 8230875108325982858}
   - component: {fileID: 115647446927875312}
   m_Layer: 0
-  m_Name: Slime Red
-  m_TagString: Red Slime
+  m_Name: Slime Cyan
+  m_TagString: Cyan Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

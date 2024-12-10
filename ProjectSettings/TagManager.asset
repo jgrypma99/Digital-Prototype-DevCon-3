@@ -9,6 +9,9 @@ TagManager:
   - Blue Slime
   - Walls
   - DeathZone
+  - Cyan Slime
+  - Yellow Slime
+  - Magenta Slime
   layers:
   - Default
   - TransparentFX

@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     public int totalScore;
     public GameObject[] slimes;
     public Transform SpawnPoint;
-    float spawnTime = 5f;
+    public float spawnTime = 5f;
 
     // Update is called once per frame
     void Update()

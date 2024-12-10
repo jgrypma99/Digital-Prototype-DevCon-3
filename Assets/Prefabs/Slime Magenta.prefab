@@ -75,7 +75,7 @@ GameObject:
   - component: {fileID: 6128745672568955170}
   m_Layer: 0
   m_Name: ZPos
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -155,8 +155,8 @@ GameObject:
   - component: {fileID: 4432632201933121105}
   - component: {fileID: 7195566438586697690}
   m_Layer: 0
-  m_Name: Slime Blue
-  m_TagString: Blue Slime
+  m_Name: Slime Magenta
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 6021918418451883960}
   m_Layer: 0
   m_Name: XPos
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -386,7 +386,7 @@ GameObject:
   - component: {fileID: 6266014717422322674}
   m_Layer: 0
   m_Name: YPos
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -468,7 +468,7 @@ GameObject:
   - component: {fileID: 8984234740759055732}
   m_Layer: 0
   m_Name: ZNeg
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -549,7 +549,7 @@ GameObject:
   - component: {fileID: 8259780895068876013}
   m_Layer: 0
   m_Name: SphereMesh
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -589,7 +589,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 34727ae7992080344901d8fed03fe8a5, type: 2}
+  - {fileID: 2100000, guid: 7a221cd2527a2ee44ba3c0c5ae6c84f3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -641,7 +641,7 @@ GameObject:
   - component: {fileID: 4080989443874051599}
   m_Layer: 0
   m_Name: YNeg
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -754,7 +754,7 @@ GameObject:
   - component: {fileID: 1884960947500440228}
   m_Layer: 0
   m_Name: XNeg
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -844,7 +844,7 @@ GameObject:
   - component: {fileID: 6962244709620328214}
   m_Layer: 0
   m_Name: Armature
-  m_TagString: Blue Slime
+  m_TagString: Magenta Slime
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
