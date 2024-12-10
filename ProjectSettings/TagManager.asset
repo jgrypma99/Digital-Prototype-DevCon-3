@@ -7,6 +7,8 @@ TagManager:
   - Red Slime
   - Green Slime
   - Blue Slime
+  - Walls
+  - DeathZone
   layers:
   - Default
   - TransparentFX

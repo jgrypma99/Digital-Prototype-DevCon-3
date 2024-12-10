@@ -553,6 +553,7 @@ GameObject:
   - component: {fileID: 4035573442941869833}
   - component: {fileID: 4500631315635212148}
   - component: {fileID: 2358203537446658582}
+  - component: {fileID: 4221011090235601042}
   m_Layer: 0
   m_Name: Armature
   m_TagString: Green Slime
@@ -787,6 +788,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   manager: {fileID: 0}
+--- !u!114 &4221011090235601042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5766229830878079761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71cb586bc3eb3644283104c981c2b0ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RB: {fileID: 0}
+  inputVector: {x: 0, y: 0, z: 0}
 --- !u!1 &7303989027686545384
 GameObject:
   m_ObjectHideFlags: 0
